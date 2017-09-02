@@ -4,8 +4,8 @@
 
 class Sprite {
 private:
-	float x;
-	float y;
+	float _x;
+	float _y;
 	int _width;
 	int _height;
 
